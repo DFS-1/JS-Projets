@@ -12,15 +12,15 @@ Gérez les interactions du joueur avec l'interface (affichage des pions et enreg
 
 ## Etape 3
 
-Gérez le jeu de l'ordinateur (affichage des pions et enregistrement des coups joués).
+Gérez les tours de jeu (chacun son tour).
 
 ## Etape 4
 
-Gérez les tours de jeu (chacun son tour).
+Détectez quand l'un des joueurs gagne la partie ou si la partie est nulle.
 
 ## Etape 5
 
-Détectez quand l'un des joueurs gagne la partie ou si la partie est nulle.
+Adaptez votre jeu pour pouvoir jouer contre l'ordinateur.
 
 ## Etape 6
 
